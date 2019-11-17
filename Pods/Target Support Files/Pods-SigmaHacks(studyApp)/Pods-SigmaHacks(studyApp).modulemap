@@ -1,0 +1,6 @@
+framework module Pods_SigmaHacks_studyApp_ {
+  umbrella header "Pods-SigmaHacks(studyApp)-umbrella.h"
+
+  export *
+  module * { export * }
+}
